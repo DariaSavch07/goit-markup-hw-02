@@ -65,7 +65,7 @@ color: #434455;
 .main-title {
     font-weight: 700;
 font-size: 56px;
-line-height: 1.1;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -73,7 +73,7 @@ text-transform: capitalize
 }
 
 .section-button {
-font-family: "Roboto", sans-serif
+font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -107,10 +107,12 @@ color: #434455;
 .section-title-people, .section-title-portfolio {
 font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize
+background-color: #FFFFFF
 }
 
 .people {
